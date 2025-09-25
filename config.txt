@@ -1,5 +1,5 @@
 serverBaseUrl=https://dinzcess.shop/OnlineMe/
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
-game1=TEST CHANGE DEVICE|liblow.so
+game1=HI ACE GOODMORNING|liblow.so
 game2=MID END DEVICE|libmid.so  
 game3=HIGH END DEVICE|libhigh.so
