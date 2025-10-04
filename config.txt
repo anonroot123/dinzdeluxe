@@ -9,3 +9,5 @@ game1=LOW END DEVICE|liblow.so|You selected LOW END DEVICE. This version is opti
 game2=MID END DEVICE|libmid.so|You selected MID END DEVICE. This version is optimized for mid-range devices.
 
 game3=HIGH END DEVICE|libhigh.so|Make sure you are using a HIGH END DEVICE. This version does not have force max FPS to avoid overheating.
+
+game4=DEVELOPER USE ONLY|libnew.so|DONT FUCKING USE THIS IT WILL BANNED YOUR ACCOUNT THIS IS ONLY FOR DEVELOPER TESTING
