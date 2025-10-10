@@ -10,4 +10,4 @@ game2=MID END DELUXE|libmid2.so|You selected MID END DEVICE. This version is opt
 
 game3=HIGH END DELUXE|libhigh2.so|Make sure you are using a HIGH END DEVICE. This version does not have force max FPS to avoid overheating.
 
-game4=PRO VARIANT(BETA)|libhigh2.so|PRO VARIANT IS NEW MOD MENU VARIANT FOR DINZ HACKS
+game4=PRO VARIANT(BETA)|libpro.so|PRO VARIANT IS NEW MOD MENU VARIANT FOR DINZ HACKS
