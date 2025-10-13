@@ -12,3 +12,5 @@ game3=HIGH END DELUXE|libhigh2.so|Make sure you are using a HIGH END DEVICE. Thi
 
 game4=PRO VARIANT(BETA)|libpro.so|PRO VARIANT IS NEW MOD MENU VARIANT FOR DINZ HACKS
 
+
+game5=NOT FOR VIP|libbolbol.so|AUTOBAN DONT USE
