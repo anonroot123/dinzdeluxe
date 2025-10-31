@@ -2,7 +2,7 @@ serverBaseUrl=https://dinzcess.shop/OnlineMe/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
-appTitle=WE ARE ON MAINTENANCE IF YOU WANT TO TEST YOU CAN USE [TEST] AND SEND US FEEDBACK
+appTitle=WE ARE ON MAINTENANCE DONT INJECT ANYTHING! WAIT FOR MY ANNOUNCEMENT
 
 game1=LOW END DELUXE|liblow2.so|You selected LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
 
