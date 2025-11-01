@@ -16,4 +16,4 @@ game5=DELUXE SKINHACKS|libbolbol2.so|THIS IS STILL A TEST: CAUSE SOME DEVICE's A
 
 game6=TEST 2|libt.so| TEST VERSION 2 
 
-game7 =TEST 1|liba.so| TEST VERSION 1
+game7=TEST 1|liba.so| TEST VERSION 1
