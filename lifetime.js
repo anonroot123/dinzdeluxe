@@ -2,7 +2,7 @@ serverBaseUrl=https://dinzcess.shop/OnlineMe/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
-appTitle=DONT USE MAIN,,,, ONLY DUMP OR TEXTACCOUNT, 10YRS ON OTHER DEVICE'S
+appTitle=BURAT WALA PANGA 
 
 game1=LOW END DELUXE|liblow3.so|You selected LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
 
