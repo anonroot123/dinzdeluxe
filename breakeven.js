@@ -1,3 +1,9 @@
+serverBaseUrl=https://dinzcess.shop/OnlineMe/
+
+gameActivity=com.tencent.tmgp.cod.CODMainActivity
+
+appTitle=BOBO MAG UUPDATE AKO APK
+
 game1=LOW END DELUXE|liblow3.so|You selected LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
 
 game2=MID END DELUXE|libmid3.so|You selected MID END DEVICE. This version is optimized for mid-range devices.
