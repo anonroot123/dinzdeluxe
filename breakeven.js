@@ -2,7 +2,7 @@ serverBaseUrl=https://dinzcess.shop/OnlineMe/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
-appTitle=BOBO MAG UUPDATE AKO APK
+appTitle=LIFETIME 1.6.53
 
 game1=LOW END DELUXE|libl4.so|You selected LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
 
