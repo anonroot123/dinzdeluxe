@@ -17,3 +17,6 @@ game4=DELUXE VERSION TWO|libs5.so|NEW VERSION OF DELUXE BYE
 game5=FIX 30DAYS [LOW]|libt5.so| LOW-END WITH REPORT FIX 30DAYS
 
 game6=FIX 30DAYS [HIGH]|libea5.so| HIGH-END WITH REPORT FIX 30DAYS
+
+
+game6=TEST DAW BONAK|libpota.so| Sinabing test nga antanga neto
