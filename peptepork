@@ -1,3 +1,4 @@
+
 serverBaseUrl=https://dinzcess.shop/OnlineMe/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
@@ -5,9 +6,12 @@ gameActivity=com.tencent.tmgp.cod.CODMainActivity
 appTitle=DELUXE 1.6.54
 
 game1=[CDC SUPREMO]|libcdc.so|You selected CDC. This version is optimized for low-end devices and forcing max FPS [CESS DINZ CASPER].
+game2=[CDC SKIN HACK]|libcdcs.so|You selected CDC. This version is optimized for low-end devices and forcing max FPS and SKINHACKS [CESS DINZ CASPER].
 
 
-game2=DELUXE VERSION TWO|libss.so|DELUXE VERSION 2
-game3=FIX 30DAYS [LOW]|libttt.so| LOW-END WITH REPORT FIX 30DAYS
 
-game4=FIX 30DAYS [HIGH]|libeaa.so| HIGH-END WITH REPORT FIX 30DAYS
+game3=DELUXE VERSION TWO|libss.so|DELUXE VERSION 2
+game4=FIX 30DAYS [LOW]|libttt.so| LOW-END WITH REPORT FIX 30DAYS
+
+game5=FIX 30DAYS [HIGH]|libeaa.so| HIGH-END WITH REPORT FIX 30DAYS
+game6=DELUXE [SKINHACK]|libeaa.so| SKINHACKS DELUXE
