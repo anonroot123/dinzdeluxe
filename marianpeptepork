@@ -1,4 +1,4 @@
-serverBaseUrl=https://dinzcess.shop/OnlineMe/
+serverBaseUrl=https://cessdinzdeluxe.shop/OnlineMe/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
