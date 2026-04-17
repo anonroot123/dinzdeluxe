@@ -2,7 +2,7 @@ serverBaseUrl=https://cessdinzdeluxe.shop/OnlineMe/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
-appTitle=LIFETIME 1.6.54
+appTitle=LIFETIME 1.6.55
 
 game1=SKINHACK CDC|libcdcsl2.so|SKINHACKS CDC SUPREMO
 
