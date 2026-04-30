@@ -4,7 +4,7 @@ gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
 appTitle=LIFETIME 1.6.55
 
-game1=SKINHACK CDC|libcdcsl2.so|SKINHACKS CDC SUPREMO
+game1=SKINHACK CDC|libcdcs2.so|SKINHACKS CDC SUPREMO
 
 game2=CDC [SUPREMO]|libcdcl2.so|SUPREMO CDC
 
