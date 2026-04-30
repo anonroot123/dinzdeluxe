@@ -6,7 +6,7 @@ appTitle=LIFETIME 1.6.55
 
 game1=SKINHACK CDC|libcdcs2.so|SKINHACKS CDC SUPREMO
 
-game2=CDC [SUPREMO]|libcdcl2.so|SUPREMO CDC
+game2=CDC [SUPREMO]|libcdc2.so|SUPREMO CDC
 
 game3=DELUXE [SKIN]|libsl2.so|SKINHACK LOW END
 
