@@ -3,7 +3,7 @@ serverBaseUrl=https://cessdinzdeluxe.shop/OnlineMe/
 
 gameActivity=com.tencent.tmgp.cod.CODMainActivity
 
-appTitle=⚠️ MAINTENANCE ⚠️
+appTitle=DELUXE 1.6.56
 
 game1=[CDC SUPREMO]|libcdc3.so|You selected CDC. This version is optimized for low-end devices and forcing max FPS [CESS DINZ CASPER].
 game2=[CDC SKIN HACK]|libcdcs3.so|You selected CDC. This version is optimized for low-end devices and forcing max FPS and SKINHACKS [CESS DINZ CASPER].
