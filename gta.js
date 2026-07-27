@@ -1,19 +1,6 @@
-serverBaseUrl=https://dinzcess.shop/OnlineMe/
-
-gameActivity=com.tencent.tmgp.cod.CODMainActivity
-
-appTitle=DELUXE 1.6.53
-
-game1=LOW END DELUXE|libl.so|You selected LOW END DEVICE. This version is optimized for low-end devices and forcing max FPS.
-
-game2=MID END DELUXE|libm.so|You selected MID END DEVICE. This version is optimized for mid-range devices.
-
-game3=HIGH END DELUXE|libh.so|Make sure you are using a HIGH END DEVICE. This version does not have force max FPS to avoid overheating.
-
-game4=DINZ PRO (NEW UI)|libpro.so|PRO VARIANT IS NEW MOD MENU VARIANT FOR DINZ HACKS
-
-game5=DELUXE SKINHACKS|libs.so|THIS IS STILL A TEST: CAUSE SOME DEVICE's ARE CRASHING ON SKINHACKS SO TEST IT FIRST IF COMPATIBLE NO CRASH THEN ENJOY IF CRASH THEN MESSAGE ME @Cesssmod
-
-game6=FIX 30DAYS [LOW]|libTT.so| LOW END WITH FIX 30days report
-
-game7=FIX 30DAYS [HIGH]|libA.so| HIGH END WITH FIX 30days report
+MD5=5ee7f238d5b7c5f262799af968530250
+SHA1=6acb088d0d2efadd2e0b9ba596b78e2c197f2247
+SHA256=4a27cfa0e1e4fe44ce1abb5845da642597a6ecb852f21d36ebbea2186832ed4f
+SHA512=f4ee32d869b3da39e0ba83722544e444a494546dd208d76398857a191360487a4cbb1fbe39476e31287e7fa9a247676447af9ebf38240cfa2652a363b2eac852
+CRC32=74c49e84
+FILESIZE=8146752
